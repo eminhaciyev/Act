@@ -1,0 +1,54 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+div#pdfConverter{
+    width: 100%;
+}
+
+p.header-avadanliq{
+    text-align: center;
+    margin-top: 50px;
+}
+
+h4{
+    text-align: center;
+}
+
+div.title-act{
+    display: flex;
+    justify-content: space-around;
+}
+
+div.act{
+    width: 742px;
+    margin: auto;
+    margin-bottom: 8px;
+}
+
+div.avadanliq-table{
+    width: 900px;
+    margin: auto;
+}
+
+div.title-confirm-act{
+    margin-left: 285px;
+}
+div.title-confirm-act h1{
+    font-size: 20px;
+}
+
+div.title-confirm-act p{
+    margin-top: 20px;
+    font-size: 17px;
+}
+
+div.qrCodeimg{
+    margin-left: 430px;
+    
+}
+
+div.qrCodeimg img{
+    width: 200px;
+
+}
